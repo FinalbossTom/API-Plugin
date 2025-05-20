@@ -5,9 +5,16 @@
 
 ![Plugin Icon](etc/iconSmall.png)
 
-If any problems or Questions or even suggestions come up, you can send those in our Discord Server!  
-https://discord.gg/hMyWcZyhRa  
-Or if you want to be fancy, open a Issue. That also works.  
+## Main Goal and Features of this Plugin  
+  
+This is a Plugin for the Game Final Fantasy XIV Online. It's main purpose is to connect specific Real Life devices to the Game, allowing interactions between them.  
+More specifically, the devices chosen are small "Shockers" from the "Pishock" and "OpenShock" Projects.  
+Through the use of such a device, one can receive more direct feedback from the interactions within the Game.  
+While the original intentions for these devices where marketed more towards Adult usage, this Plugin bridges the gap towards a more playful use.  
+  
+Further below are all the implemented interactions that the Plugin is able to pick up on. All of the Features are "Opt-in" and highly customizeable.  
+  
+Important Note: This Repository is a archived copy of the original, still ongoing Project.  
   
 ![Preview of Main Menu](etc/preview.png)
   
