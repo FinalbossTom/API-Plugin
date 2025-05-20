@@ -23,6 +23,8 @@ using WoLightning.WoL_Plugin.Windows;
 
 namespace WoLightning;
 
+// Main File
+
 
 public sealed class Plugin : IDalamudPlugin
 {
