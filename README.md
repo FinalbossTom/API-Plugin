@@ -14,8 +14,21 @@ While the original intentions for these devices where marketed more towards Adul
   
 Further below are all the implemented interactions that the Plugin is able to pick up on. All of the Features are "Opt-in" and highly customizeable.  
   
-Important Note: This Repository is a archived copy of the original, still ongoing Project.  
   
+Important Note: This Repository is a archived copy of the original, still ongoing Project.  
+Some Statistics on the state of this Plugin:  
+- 8990 Lines of Source Code  
+- 84 Built Versions  
+- 9 Major Versions  
+- 3 Major Reworks/Revisions  
+- First Prototype Released on May 25, 2024  
+- Performance Impacts with all Features enabled (using Median Hardware from 20.05.25)  
+  - Average Frame Impact ~0.005ms (>0.001% of a Frame @60FPS)  
+  - Worst Case Frame Impact ~0.07ms (>0.01% of a Frame @60FPS)  
+    
+    
+
+Preview of the Main UI Interface captures Ingame:  
 ![Preview of Main Menu](etc/preview.png)
   
 ## Current Features
@@ -42,7 +55,7 @@ Important Note: This Repository is a archived copy of the original, still ongoin
 - Presets for quick swapping of Settings    
 
 - A safeword with /red  
-  This disables all Pishock functionality from the plugin until used again.
+  This disables all functionalities from the plugin until used again.
   
   
 ![Preview of Configuration](etc/configPreview.png)
